@@ -1,12 +1,13 @@
 <template>
 <div>
-  <span> hej </span>
-  <Tutorial/>
+  <NuxtLink to="/postsPage"> Posts </NuxtLink>
+  
 </div>
 </template>
 
 <script>
 export default {
   name: 'IndexPage'
+
 }
 </script>
