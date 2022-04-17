@@ -1,0 +1,12 @@
+/* purgecss start ignore */
+@import 'tailwindcss/base';
+@import 'tailwindcss/components';
+/* purgecss end ignore */
+@import 'tailwindcss/utilities';
+
+@font-face {
+    font-family: 'AirBagFree';
+    font-weight: 600;
+    src: url('../fonts/AirBagFree-Regular.ttf') format('truetype');
+  }
+
